@@ -29,7 +29,7 @@ Page Object Model, also known as POM, is a design pattern where we create an obj
 * javascript
 
 ### To test Project locally, 
-* Clone repository at git@github.com:AllanTumu/Use_Case_Allan_Tumuhimbise.git
+* Clone repository at https://github.com/AKAlbert/AirMalta_Demo
 * Have node and npm installed.
 * Navigate to EndToEndTests directory.
 * Install the node modules by going to the terminal and run command `npm install -g node-modules`
