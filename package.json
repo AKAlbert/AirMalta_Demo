@@ -1,0 +1,19 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "headless": "cypress run"
+  },
+  "author": "albert",
+  "license": "ISC",
+  "devDependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0"
+  },
+  "dependencies": {
+    "cypress": "^10.3.0"
+  }
+}
